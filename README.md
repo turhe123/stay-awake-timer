@@ -1,5 +1,7 @@
 # StayAwakeTimer
 
+**🌐 Website:** [turhe123.github.io/stay-awake-timer](https://turhe123.github.io/stay-awake-timer/)
+
 Keep your Mac awake for a chosen time, until a download ends, or while certain apps run, from the menu bar.
 
 ![macOS 14+](https://img.shields.io/badge/macOS-14%2B-blue)
@@ -33,7 +35,17 @@ Closing the lid of a laptop without an external display still sleeps the Mac. ma
 
 ## Screenshots
 
-_Screenshots coming soon._
+<p align="center"><img src="docs/screenshots/01-menu.png" alt="StayAwakeTimer menu bar menu with 1 Hour session active" width="720"></p>
+
+<p align="center"><em>The menu bar menu during an active one-hour session, showing time left, preset durations, triggers and quick actions.</em></p>
+
+<p align="center"><img src="docs/screenshots/02-settings.png" alt="StayAwakeTimer Settings window" width="560"></p>
+
+<p align="center"><em>Settings for trigger apps, the battery guard, display sleep, notifications and launch at login.</em></p>
+
+<p align="center"><img src="docs/screenshots/03-custom-duration.png" alt="Custom Duration window with hour and minute steppers" width="560"></p>
+
+<p align="center"><em>Pick any custom duration in hours and minutes to keep your Mac awake.</em></p>
 
 ## Install
 

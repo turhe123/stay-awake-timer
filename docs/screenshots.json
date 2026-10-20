@@ -1,0 +1,5 @@
+[
+  {"file":"01-menu.png","caption":"The menu bar menu during an active one-hour session, showing time left, preset durations, triggers and quick actions.","alt":"StayAwakeTimer menu bar menu with 1 Hour session active"},
+  {"file":"02-settings.png","caption":"Settings for trigger apps, the battery guard, display sleep, notifications and launch at login.","alt":"StayAwakeTimer Settings window"},
+  {"file":"03-custom-duration.png","caption":"Pick any custom duration in hours and minutes to keep your Mac awake.","alt":"Custom Duration window with hour and minute steppers"}
+]

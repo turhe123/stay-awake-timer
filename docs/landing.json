@@ -1,0 +1,60 @@
+{
+  "seo_title": "Keep your Mac awake on a timer",
+  "seo_description": "Free, open-source menu bar app that keeps your Mac awake for a set time, while chosen apps run, or on power. Native, offline, no account, macOS 14+.",
+  "hero_title_line1": "Keep your Mac awake.",
+  "hero_title_accent": "Then let it sleep.",
+  "hero_sub": "Prevent sleep from the menu bar for 15 minutes up to 24 hours, or automatically while chosen apps run, on power, or with an external display. Toggle it with ⌘A in the menu.",
+  "features_title": "Control over when sleep happens.",
+  "features_sub": "Timers, automatic triggers and a battery guard, all running locally with Apple frameworks only.",
+  "features": [
+    {
+      "icon": "clock",
+      "title": "Timed sessions",
+      "desc": "Pick 15 minutes, 30 minutes, 1, 2, 4 or 8 hours, or set a custom duration up to 24 h 55 m. The time left shows in the menu bar only while a timer runs."
+    },
+    {
+      "icon": "bolt",
+      "title": "Automatic triggers",
+      "desc": "Stay awake while any app you choose is running, while the Mac is on the power adapter, or while an external display is connected."
+    },
+    {
+      "icon": "battery",
+      "title": "Battery guard",
+      "desc": "On battery, every session ends when the charge drops below a threshold you set between 5% and 50%. You can also turn the guard off."
+    },
+    {
+      "icon": "display",
+      "title": "Let the display sleep",
+      "desc": "Keep the system running while the screen turns off, or keep both awake. One setting controls which."
+    },
+    {
+      "icon": "bell",
+      "title": "Notifications when it ends",
+      "desc": "Get an optional notification when a session finishes or the battery guard stops it. Turn it off in Settings if you prefer quiet."
+    },
+    {
+      "icon": "shield",
+      "title": "Safe by design",
+      "desc": "Overlapping reasons share one power assertion, everything is released on quit, and timers are not restored after a relaunch. Clock changes are handled because the end time is stored as a date."
+    }
+  ],
+  "permissions_step": "Allow notifications when prompted, or later in System Settings > Notifications > StayAwakeTimer; this is optional, and no other permissions are required.",
+  "faq": [
+    {
+      "q": "Is StayAwakeTimer really free and open source?",
+      "a": "Yes. It is released under the MIT license and the full source is in the GitHub repository. There are no ads, no account, no analytics and no third-party dependencies. If you find it useful, there is an optional Support button in the menu and Settings."
+    },
+    {
+      "q": "What permissions does it need?",
+      "a": "Notifications are optional and are used only to tell you when a session ends or the battery guard fires. Launch at login is optional too. It does not need Accessibility, Screen Recording or Microphone access."
+    },
+    {
+      "q": "Where is my data stored?",
+      "a": "Your preferences, such as trigger apps, the battery threshold and notification settings, are stored locally on your Mac in the app's standard preferences. The app makes no network calls, so nothing leaves your machine."
+    },
+    {
+      "q": "Why is the app not notarized?",
+      "a": "Notarization requires a paid Apple Developer account, and this is a free open-source project. Right-click the app and choose Open once to get past Gatekeeper, or build it yourself from source with Xcode."
+    }
+  ]
+}
